@@ -1,20 +1,14 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
-<div align="center">
-
-<a href="https://github.com/CtorW">
+<a href="https://github.com/miguelarrabalcastro">
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)]([https://github.com/CtorW](https://github.com/miguelarrabalcastro))
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+🔍 **Web Pentester** passionate about hunting bugs like IDOR, XSS, and SQLi — always diving deep into how apps really work.
 
-💻 Passionately building an **Arch Installer** project. 
+🌱 Automating recon & exploitation with Python, crafting tools, and **constantly sharpening skills** on HTB, PortSwigger and much more..
 
 
 <div align="Center">
@@ -25,7 +19,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py,"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,cpp,py"/> |
 
 </div>
 
