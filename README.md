@@ -46,15 +46,6 @@
 
 </div>
 
-<div align="Center">
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-
-</div>
-
 <br>
 <br>
 
@@ -62,11 +53,8 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:marrabal04@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/miguelarrabalcastro/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎ |
 
 </div>
 
 ------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
