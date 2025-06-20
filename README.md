@@ -2,7 +2,6 @@
 <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)]([https://github.com/CtorW](https://github.com/miguelarrabalcastro))
 </div>
 
 
