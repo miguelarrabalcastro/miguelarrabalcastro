@@ -5,6 +5,7 @@
 </div>
 
 <br>
+<br>
 
 🔍 **Web Pentester** passionate about hunting bugs like IDOR, XSS, and SQLi — always diving deep into how apps really work.
 
@@ -22,7 +23,6 @@
 | <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,cpp,py"/> |
 
 </div>
-
 
 <br>
 <br>
