@@ -25,7 +25,6 @@
 
 <br>
 <br>
-<br>
 
 <div align="Center">
 <h1>Operating Systems</h1>
