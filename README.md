@@ -19,7 +19,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py,"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,cpp,py"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github,cpp,py"/> |
 
 </div>
 
@@ -30,24 +30,21 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,kali,linux"/>
 
 </div>
 
 <br>
 <br>
 
+<div align="Center">
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-
+</div>
 
 <div align="Center">
-
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
